@@ -25,6 +25,7 @@ public void display()
 		Aggregation2 obj1 = new Aggregation2("Chennai",obj);
 		obj1.display();
 		
+		
 
 	}
 
